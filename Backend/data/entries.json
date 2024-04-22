@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "vorname": "Zied",
+    "nachname": "Al-Halawani",
+    "email": "zied.@gmail.com",
+    "nachricht": "Der Bruder hätte gerne ein Platz am Fenster neben Steckdose"
+  },
+  {
+    "id": 2,
+    "vorname": "Reazy",
+    "nachname": "Geissen",
+    "email": "reazy@outlook.de",
+    "nachricht": "roten Teppich auslegen und Tisch für 20 Gäste"
+  },
+  {
+    "id": 3,
+    "vorname": "Freddy",
+    "nachname": "Zec+",
+    "email": "testo@gmx.com",
+    "nachricht": "Escort-Frauen sollen ihm während seines gesamten Aufenthalts umgehend eine vollständige Massage anbieten."
+  },
+  {
+    "id": 4,
+    "vorname": "Tobi",
+    "nachname": "Lee",
+    "email": "tobi.lee@gmx.de",
+    "nachricht": "ein döner bitte "
+  },
+  {
+    "id": 5,
+    "vorname": "IZEL",
+    "nachname": "HALLO",
+    "email": "izel@kawaii.de",
+    "nachricht": "lelele"
+  }
+]
